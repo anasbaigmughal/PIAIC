@@ -1,0 +1,10 @@
+var a = 6;
+var b = 2;
+var sub = a-b;
+var mul = a*b;
+var div = a/b;
+var mod = a%b;
+document.write("Subtraction of " + a + " and " + b + " is " + sub);
+document.write("<br />Multilication of " + a + " and " + b + " is " + mul);
+document.write("<br />Division of " + a + " and " + b + " is " + div);
+document.write("<br />Modulus of " + a + " and " + b + " is " + mod);
